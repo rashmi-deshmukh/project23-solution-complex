@@ -16,9 +16,9 @@ function setup(){
     ladderStep4 = new Ladder(350,770,100,40);
 
     redBlock = new Block(90,350, 25,100)
-    blueBlock = new Block(190,530, 25,100)
-    greenBlock = new Block(290,630, 25,100)
-    yellowBlock = new Block(390,720, 25,100)
+    blueBlock = new Block(190,520, 25,100)
+    greenBlock = new Block(290,620, 25,100)
+    yellowBlock = new Block(390,700, 25,100)
 
     blackBlock= new Block(600,750, 70,70)
     ground = new Ground(400,height,800,20)
